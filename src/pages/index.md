@@ -23,7 +23,7 @@ intro:
     - image: /img/70922142_2595895973806983_2550252289310851072_n.jpg
       heading: Fodbold - Senior dame
       text: Fodbold - Senior dame
-    - image: /img/meeting-space.png
+    - image: /img/14050_878143922248872_4447810285950461304_n.jpg
       heading: Fodbold - U15 drenge
       text: Fodbold - U15 drenge
   heading: gr
