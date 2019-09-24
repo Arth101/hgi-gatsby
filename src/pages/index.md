@@ -14,15 +14,14 @@ description: >-
   har lyst til at spille noget bold.
 intro:
   blurbs:
+    - image: /img/70764574_2594381017291812_6026979477349728256_n.jpg
+      heading: Fodbold - U8 piger
+      text: Fodbold - U8 piger
     - image: /img/hgi.jpg
+      heading: Fodbold - U15 piger
       text: Fodbold - U15 piger
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/70922142_2595895973806983_2550252289310851072_n.jpg
+      heading: Fodbold - Senior dame
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -30,6 +29,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: /img/meeting-space.png
+      heading: Fodbold - Senior herre
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
