@@ -28,6 +28,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      heading: PropTypes.string,
       text: PropTypes.string,
     })
   ),

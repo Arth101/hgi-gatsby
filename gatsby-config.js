@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Høje Gladsaxe Idrætsforening',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'HGI er for alle der har lyst til at spille fodbold eller håndbold, og kan du ikke finde en hold i din aldersgruppe eller sportsgren er du velkommen til at starte et nyt hold hos os. Det kræver bare en en træner og nogle spiller som har lyst til at spille noget bold.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
