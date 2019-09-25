@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Boldspil med plads til alle
-image: /img/hgi.jpg
+image: /img/hgi-splash.jpg
 heading: Vores hold
 subheading: Remove
 mainpitch:
