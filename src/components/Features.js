@@ -17,14 +17,12 @@ const FeatureGrid = ({ gridItems }) => (
               
               <div class="media-content">
                 <p class="title is-4">{item.heading}</p>
-                <p class="subtitle is-6">@johnsmith</p>
+                <p class="subtitle is-6">{item.time}</p>
               </div>
             </div>
 
             <div class="content">
               {item.text}
-              <br />
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -38,6 +36,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       heading: PropTypes.string,
+      time: PropTypes.string,
       text: PropTypes.string,
     })
   ),
