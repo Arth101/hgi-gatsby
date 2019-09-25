@@ -6,7 +6,7 @@ heading: Vores hold
 subheading: Remove
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
-  description: En breddeklub i Høje Gladsaxe lige ned bag højhusene.
+  description: En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
 description: >-
   HGI er for alle der har lyst til at spille fodbold eller håndbold, og kan du
   ikke finde en hold i din aldersgruppe eller sportsgren er du velkommen til at
