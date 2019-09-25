@@ -6,20 +6,28 @@ const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
-        <section className="section">
-          <div className="has-text-centered">
-            <div
-              style={{
-                width: '240px',
-                display: 'inline-block',
-              }}
-            >
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-4by3">
               <PreviewCompatibleImage imageInfo={item} />
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              
+              <div class="media-content">
+                <p class="title is-4">{item.heading}</p>
+                <p class="subtitle is-6">@johnsmith</p>
+              </div>
+            </div>
+
+            <div class="content">
+              {item.text}
+              <br />
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
-          <h3>{item.heading}</h3>
-          <p>{item.text}</p>
-        </section>
+        </div>
       </div>
     ))}
   </div>
