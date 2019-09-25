@@ -167,7 +167,6 @@ export const pageQuery = graphql`
               }
             }
             heading
-            traningTime
             text
           }
           heading
