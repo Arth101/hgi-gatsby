@@ -17,7 +17,7 @@ const FeatureGrid = ({ gridItems }) => (
               
               <div class="media-content">
                 <p class="title is-4">{item.heading}</p>
-                <p class="subtitle is-6">{item.traningTime}</p>
+                <p class="subtitle is-6">{item.traning}</p>
               </div>
             </div>
 
@@ -36,7 +36,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       heading: PropTypes.string,
-      traningTime: PropTypes.string,
+      traning: PropTypes.string,
       text: PropTypes.string,
     })
   ),
