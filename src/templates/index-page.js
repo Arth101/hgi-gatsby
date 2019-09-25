@@ -167,8 +167,8 @@ export const pageQuery = graphql`
               }
             }
             heading
-            tid
             text
+            traning
           }
           heading
           description
