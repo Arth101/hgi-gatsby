@@ -16,19 +16,23 @@ intro:
   blurbs:
     - image: /img/70764574_2594381017291812_6026979477349728256_n.jpg
       heading: Fodbold - U8 piger
-      text: 'Træning: Torsdag, kl. 17.30 - 19.00.'
+      text: |-
+        Pigehold for 8-10 årige.
+        Kontakt: lotte@hgi.dk.
       traning: 'Træning: Torsdag, kl. 17.30 - 19.00.'
     - image: /img/70922142_2595895973806983_2550252289310851072_n.jpg
       heading: Fodbold - Senior dame
-      text: 'Træningtider: Onsdag, kl. 19.00 - 21.00.'
+      text: |-
+        Old-girls hold med høj gennemsnitsalder.
+        Kontakt: karen@hgi.dk.
       traning: 'Træningtider: Onsdag, kl. 19.00 - 21.00.'
     - image: /img/hgi.jpg
       heading: Fodbold - U15 piger
-      text: 'Træningtider: Mandag, kl. 16.00 - 18.00.'
+      text: 'Spiller pt. 2. division! Kontakt: lars@hgi.dk.'
       traning: 'Træningtider: Mandag, kl. 16.00 - 18.00.'
     - image: /img/14050_878143922248872_4447810285950461304_n.jpg
       heading: Fodbold - U15 drenge
-      text: 'Træningtider: Torsdag, kl. 17.30 - 19.00.'
+      text: 'Hyggehold med ambitioner. Kontakt: Aaliyah@hgi.dk.'
       traning: 'Træningtider: Torsdag, kl. 17.30 - 19.00.'
   heading: gr
   description: >
