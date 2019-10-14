@@ -13,19 +13,20 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-          <div className="column is-4 social">
+          <div className="column is-12 social">
               <a title="facebook" href="https://www.facebook.com/HGIiGladsaxe/">
                 <img
                   src={facebook}
                   alt="Facebook"
                   style={{ width: '1em', height: '1em' }}
                 />
+                Følg os på Facebook
               </a>
             </div>
             <div className="columns">
               <div className="column is-12">
                 <section className="menu">
-                  <ul className="menu-list has-text-centered">
+                  <ul className="menu-list has-text-centered" style={{marginLeft: "0"}}>
                     <li>
                       <Link to="/" className="navbar-item">
                         Forside
@@ -48,7 +49,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Kontact
+                        Kontakt
                       </Link>
                     </li>
                     <li>
