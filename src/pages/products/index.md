@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Vores hold
-image: /img/jumbotron.jpg
+image: /img/splash-1.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -11,32 +11,40 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
+      heading: Hold 1
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
+      time: Tirsdag
     - image: /img/coffee-gear.png
+      heading: Hold 2
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
+      time: onsdag
     - image: /img/tutorials.png
+      heading: hold 3
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
+      time: fredag
     - image: /img/meeting-space.png
+      heading: hold 5
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+      time: frdag
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
