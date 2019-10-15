@@ -20,7 +20,7 @@ const Footer = class extends React.Component {
                   alt="Facebook"
                   style={{ width: '1em', height: '1em' }}
                 />
-                &nbs;Følg os på Facebook
+                 Følg os på Facebook
               </a>
             </div>
             <div className="columns">
