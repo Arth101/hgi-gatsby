@@ -22,7 +22,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "pages"
-    label: "Pages"
+    label: "Sider"
     files:
       - file: "src/pages/index.md"
         label: "Forside"
