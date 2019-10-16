@@ -3,7 +3,7 @@ templateKey: blog-post
 title: U8 pigerne vinder 4 kampe i træk!
 date: 2017-01-04T15:04:10.000Z
 description: Fodbold pigerne var til stævne i Roskilde.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/70764574_2594381017291812_6026979477349728256_n.jpg
 tags:
   - fobold
