@@ -43,7 +43,7 @@ export default class Index extends React.Component {
               <form
                 name="join"
                 method="post"
-                action="/contact/thanks/"
+                action="/kontakt/tak/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
