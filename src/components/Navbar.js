@@ -72,7 +72,7 @@ const Navbar = class extends React.Component {
                 Kontakt
               </Link>
               <Link className="navbar-item" to="/kontakt/indmeld">
-                Indmelding
+                Indmeld
               </Link>
               <Link className="navbar-item" to="/kontakt/examples">
                 Form Examples
