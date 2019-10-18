@@ -143,32 +143,35 @@ export default class Index extends React.Component {
                   <label className="label" htmlFor={'football'}>
                   <input
                       type={'radio'}
-                      name={'football'}
+                      name={'sport'}
                       onChange={this.handleChange}
                       id={'football'}
-                      required={false}
+                      value={'fodbold'}
+                      required={true}
                     />
-                     Fodbold
+                    &nbsp;Fodbold
                   </label>
                   <label className="label" htmlFor={'handball'}>
                   <input
                       type={'radio'}
-                      name={'handball'}
+                      name={'sport'}
                       onChange={this.handleChange}
                       id={'handball'}
-                      required={false}
+                      value={'håndbold'}
+                      required={true}
                     />
-                     Håndbold
+                    &nbsp;Håndbold
                   </label>
                   <label className="label" htmlFor={'passive'}>
                   <input
                       type={'radio'}
-                      name={'passive'}
+                      name={'sport'}
                       onChange={this.handleChange}
                       id={'passive'}
-                      required={false}
+                      required={true}
+                      value={'passiv'}
                     />
-                    Passiv
+                    &nbsp;Passiv
                   </label>
                   </div>
                 </div>
