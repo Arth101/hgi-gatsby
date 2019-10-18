@@ -180,6 +180,19 @@ export default class Index extends React.Component {
                     </label>
                   </div>
                 </div>
+                <fieldset>
+                  <legend>Can you attend?</legend>
+                  <p>
+                    <label>
+                      <input type={'radio'} name={'attendance'} value={'Attending'} /> Yes
+                    </label>
+                  </p>
+                  <p>
+                    <label>
+                    <input type={'radio'} name={'attendance'} value={'Not attending'} /> No
+                    </label>
+                  </p>
+                </fieldset>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Hvis du tidligere har spillet i en anden klub så skriv det her
