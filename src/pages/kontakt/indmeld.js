@@ -72,6 +72,36 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'address'}>
+                    Adresse
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'address'}
+                      onChange={this.handleChange}
+                      id={'address'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'zip-code'}>
+                    Post nummer
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'number'}
+                      name={'zip-code'}
+                      onChange={this.handleChange}
+                      id={'zip-code'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={'email'}>
                     Email
                   </label>
@@ -87,8 +117,23 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'phone'}>
+                    Telefon nummer
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'number'}
+                      name={'phome'}
+                      onChange={this.handleChange}
+                      id={'phone'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Besked
+                    Hvis du tidligere har spillet i en anden klub så skriv det her
                   </label>
                   <div className="control">
                     <textarea
