@@ -40,6 +40,9 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Indmelding</h1>
+              <p>
+                Undertegnede indmelder sig herved i HGI (Høje Gladsaxe Idrætsforening), idet jeg sammtidig bekræfter, at jeg ikke spiller på repræsentative hold for andre foreninger under DBU (Dansk Boldspil Union) eller DHF (Dansk Håndbold Forbund).
+              </p>
               <form
                 name="join"
                 method="post"
@@ -88,12 +91,12 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'zip-code'}>
-                    Post nummer
+                    Post nummer og by
                   </label>
                   <div className="control">
                     <input
                       className="input"
-                      type={'number'}
+                      type={'text'}
                       name={'zip-code'}
                       onChange={this.handleChange}
                       id={'zip-code'}
@@ -129,6 +132,47 @@ export default class Index extends React.Component {
                       id={'phone'}
                       required={true}
                     />
+                  </div>
+                </div>
+                <p>
+                  Jeg ønsker at være aktiv i
+                </p>
+                <div className="field">
+                  
+                  <div className="control">
+                  <label className="label" htmlFor={'football'}>
+                  <input
+                      className="input"
+                      type={'radio'}
+                      name={'football'}
+                      onChange={this.handleChange}
+                      id={'football'}
+                      required={false}
+                    />
+                    Fodbold
+                  </label>
+                  <label className="label" htmlFor={'handball'}>
+                  <input
+                      className="input"
+                      type={'radio'}
+                      name={'handball'}
+                      onChange={this.handleChange}
+                      id={'handball'}
+                      required={false}
+                    />
+                    Håndbold
+                  </label>
+                  <label className="label" htmlFor={'passive'}>
+                  <input
+                      className="input"
+                      type={'radio'}
+                      name={'passive'}
+                      onChange={this.handleChange}
+                      id={'passive'}
+                      required={false}
+                    />
+                    Passiv
+                  </label>
                   </div>
                 </div>
                 <div className="field">
