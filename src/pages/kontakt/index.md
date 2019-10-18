@@ -28,4 +28,4 @@ Michael Juel Petersen
 
 Mobil: 20757834
 
-Mail: hgi.sport.@gmail.com
+Mail: hgi.sport@gmail.com
