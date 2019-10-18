@@ -77,7 +77,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'birthday'}>
-                    Fødselsdato og år (f.eks. 27. maj 2001)
+                    Fødselsdato og år
                   </label>
                   <div className="control">
                     <input
@@ -86,6 +86,7 @@ export default class Index extends React.Component {
                       name={'birthday'}
                       onChange={this.handleChange}
                       id={'birthday'}
+                      placeholder={'f.eks. 27. maj 2001'}
                       required={true}
                     />
                   </div>
