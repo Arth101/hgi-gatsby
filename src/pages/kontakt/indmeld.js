@@ -136,46 +136,48 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <p>
-                  Jeg ønsker at være aktiv i
+                Jeg ønsker at spille
                 </p>
                 <div className="field">
                   <div className="control">
-                  <label class="label">
-                    Jeg ønsker at spille
-                  </label>
-                  <label className="label" htmlFor={'football'}>
-                  <input
-                      type={'radio'}
-                      name={'sport'}
-                      onChange={this.handleChange}
-                      id={'football'}
-                      value={'fodbold'}
-                      required={true}
-                    />
-                    &nbsp;Fodbold
-                  </label>
-                  <label className="label" htmlFor={'handball'}>
-                  <input
-                      type={'radio'}
-                      name={'sport'}
-                      onChange={this.handleChange}
-                      id={'handball'}
-                      value={'håndbold'}
-                      required={true}
-                    />
-                    &nbsp;Håndbold
-                  </label>
-                  <label className="label" htmlFor={'passive'}>
-                  <input
-                      type={'radio'}
-                      name={'sport'}
-                      onChange={this.handleChange}
-                      id={'passive'}
-                      required={true}
-                      value={'passiv'}
-                    />
-                    &nbsp;Passiv
-                  </label>
+                    <label className="label" htmlFor={'football'}>
+                    <input
+                        type={'radio'}
+                        name={'sport'}
+                        onChange={this.handleChange}
+                        id={'football'}
+                        value={'fodbold'}
+                        required={true}
+                      /> Fodbold
+                    </label>
+                  </div>
+                </div>
+                <div className="field">
+                  <div className="control">
+                    <label className="label" htmlFor={'handball'}>
+                    <input
+                        type={'radio'}
+                        name={'sport'}
+                        onChange={this.handleChange}
+                        id={'handball'}
+                        value={'håndbold'}
+                        required={true}
+                      /> Håndbold
+                    </label>
+                  </div>
+                </div>
+                <div className="field">
+                  <div className="control">
+                    <label className="label" htmlFor={'passive'}>
+                    <input
+                        type={'radio'}
+                        name={'sport'}
+                        onChange={this.handleChange}
+                        id={'passive'}
+                        required={true}
+                        value={'passiv'}
+                      /> Passiv
+                    </label>
                   </div>
                 </div>
                 <div className="field">
