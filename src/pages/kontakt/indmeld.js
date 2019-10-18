@@ -44,8 +44,9 @@ export default class Index extends React.Component {
                 Undertegnede indmelder sig herved i HGI (Høje Gladsaxe Idrætsforening), idet jeg sammtidig bekræfter, at jeg ikke spiller på repræsentative hold for andre foreninger under DBU (Dansk Boldspil Union) eller DHF (Dansk Håndbold Forbund).
               </p>
               <form
-                name="join"
+                name="indmeld"
                 method="post"
+                subject="Ny indmelding i HGI"
                 action="/kontakt/tak/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
@@ -53,7 +54,12 @@ export default class Index extends React.Component {
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
-                <input type="text" name="subject" id="subject" value="Ny indmelding i HGI" />
+                <div hidden>
+                  <label>
+                    Subject
+                    <input name={'subject'} id={'subject'} value={'Ny indmelding i HGI'} onChange={this.handleChange} />
+                  </label>
+                </div>
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
