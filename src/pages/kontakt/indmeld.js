@@ -135,9 +135,6 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
-                <p>
-                Jeg ønsker at spille
-                </p>
                 <div className="field">
                   <div className="control">
                   <label className="label" htmlFor={'sport'}>
@@ -149,7 +146,7 @@ export default class Index extends React.Component {
                         id={'sport'}
                         value={'null'}
                         required={true}
-                      /> Sport
+                      />Jeg ønsker at spille
                     </label>
                     <label className="label" htmlFor={'football'}>
                     <input
