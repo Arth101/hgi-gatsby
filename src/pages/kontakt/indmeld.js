@@ -53,7 +53,7 @@ export default class Index extends React.Component {
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
-                <input type="text" name="subject" value="Ny indmelding i HGI fra {{name}}" class="hidden" />
+                <input type="hidden" name="subject" value="Ny indmelding i HGI fra {{name}}" class="hidden" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
@@ -181,8 +181,9 @@ export default class Index extends React.Component {
                     Hvis du tidligere har spillet i en anden klub så skriv det her
                   </label>
                   <div className="control">
-                    <textarea
-                      className="textarea"
+                    <input
+                      className="input"
+                      type={'text'}
                       name={'message'}
                       onChange={this.handleChange}
                       id={'message'}
