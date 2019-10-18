@@ -128,7 +128,7 @@ export default class Index extends React.Component {
                     <input
                       className="input"
                       type={'number'}
-                      name={'phome'}
+                      name={'phone'}
                       onChange={this.handleChange}
                       id={'phone'}
                       required={true}
