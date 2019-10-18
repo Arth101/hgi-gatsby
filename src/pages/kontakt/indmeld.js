@@ -50,10 +50,10 @@ export default class Index extends React.Component {
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
-                subject={'Ny indmelding i HGI'}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
+                <input type="text" name="subject" value="Ny indmelding i HGI fra {{name}}" class="hidden" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
