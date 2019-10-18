@@ -76,6 +76,21 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'birthday'}>
+                    Fødselsdato og år (f.eks. 27. maj 2001)
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'birthday'}
+                      onChange={this.handleChange}
+                      id={'birthday'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={'address'}>
                     Adresse
                   </label>
