@@ -140,6 +140,17 @@ export default class Index extends React.Component {
                 </p>
                 <div className="field">
                   <div className="control">
+                  <label className="label" htmlFor={'sport'}>
+                    <input
+                        hidden
+                        type={'radio'}
+                        name={'sport'}
+                        onChange={this.handleChange}
+                        id={'sport'}
+                        value={'null'}
+                        required={true}
+                      /> Sport
+                    </label>
                     <label className="label" htmlFor={'football'}>
                     <input
                         type={'radio'}
@@ -180,15 +191,6 @@ export default class Index extends React.Component {
                     </label>
                   </div>
                 </div>
-                <fieldset>
-                  <legend>Can you attend?</legend>
-                    <label htmlFor={'attending'}>
-                      <input type={'radio'} name={'attendance'} id={'attending'} value={'Attending'} /> Yes
-                    </label>
-                    <label htmlFor={'not-attending'}>
-                    <input type={'radio'} name={'attendance'} id={'not-attending'} value={'Not attending'} /> No
-                    </label>
-                </fieldset>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Hvis du tidligere har spillet i en anden klub så skriv det her
