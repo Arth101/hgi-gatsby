@@ -21,6 +21,18 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
+  - name: "alle-hold"
+    label: "Hold"
+    folder: "src/pages/hold-sider"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Holdnavn", name: "title", widget: "string"}
+      - {label: "Beskrivelse", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "pages"
     label: "Sider"
     files:
