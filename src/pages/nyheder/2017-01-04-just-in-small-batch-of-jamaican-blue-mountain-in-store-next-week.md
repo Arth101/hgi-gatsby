@@ -9,4 +9,4 @@ tags:
   - fobold
   - u8
 ---
-Lørdag var vores U8 piger til fodboldstævne i Roskilde vor de spillede 4 kampe og sejrede i alle 4.🏆 Verdens klasse. Det er seje piger🤗
+Lørdag var vores U8 piger til fodboldstævne i Roskilde vor de spillede 4 kampe og sejrede i alle 4.🏆 Verdens klasse. Det er seje piger🤗.
