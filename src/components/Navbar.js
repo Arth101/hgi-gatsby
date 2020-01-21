@@ -74,7 +74,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/kontakt/indmeld">
                 Indmeld
               </Link>
-              <Link className="navbar-item" to="/kontakt/examples">
+              <Link className="navbar-item" to="/kontakt/examples" style={{display: "none"}}>
                 Form Examples
               </Link>
             </div>

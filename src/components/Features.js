@@ -6,22 +6,22 @@ const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
-        <div class="card">
-          <div class="card-image">
-            <figure class="image is-marginless">
+        <div className="card">
+          <div className="card-image">
+            <figure className="image is-marginless">
               <PreviewCompatibleImage imageInfo={item} />
             </figure>
           </div>
-          <div class="card-content">
-            <div class="media">
+          <div className="card-content">
+            <div className="media">
               
-              <div class="media-content">
-                <p class="title is-4">{item.heading}</p>
-                <p class="subtitle is-6">{item.traning}</p>
+              <div className="media-content">
+                <p className="title is-4">{item.heading}</p>
+                <p className="subtitle is-6">{item.traning}</p>
               </div>
             </div>
 
-            <div class="content">
+            <div className="content">
               {item.text}
             </div>
           </div>

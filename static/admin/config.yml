@@ -27,9 +27,11 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-post"}
       - {label: "Holdnavn", name: "title", widget: "string"}
-      - {label: "Beskrivelse", name: "description", widget: "text"}
+      - {label: Tid, name: traning, widget: "string"}
+      - {label: "Kort beskrivelse", name: "description", widget: "text"}
+      - {label: "Kontakt", name: "contact", widget: "string"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
 
