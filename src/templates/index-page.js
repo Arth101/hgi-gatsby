@@ -10,10 +10,8 @@ export const IndexPageTemplate = ({
   image,
   title,
   heading,
-  subheading,
   mainpitch,
   description,
-  intro,
 }) => (
   <div>
     <div
@@ -157,22 +155,6 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 500, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            heading
-            text
-            traning
-          }
-          heading
-          description
-        }
       }
     }
   }

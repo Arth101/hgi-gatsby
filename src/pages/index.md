@@ -3,7 +3,6 @@ templateKey: index-page
 title: Boldspil med plads til alle
 image: /img/hgi-splash.jpg
 heading: Vores hold
-subheading: Remove
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
   description: En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
@@ -12,49 +11,5 @@ description: >-
   ikke finde en hold i din aldersgruppe eller sportsgren er du velkommen til at
   starte et nyt hold hos os. Det kræver bare en en træner og nogle spiller som
   har lyst til at spille noget bold.
-intro:
-  blurbs:
-    - image: /img/hold-1.jpg
-      heading: Fodbold - U8 piger
-      text: |-
-        Pigehold for 8-10 årige.
-        Kontakt: lotte@hgi.dk.
-      traning: 'Træning: Torsdag, kl. 17.30 - 19.00.'
-    - image: /img/hold-2.jpg
-      heading: Fodbold - Senior dame
-      text: |-
-        Old-girls hold med høj gennemsnitsalder.
-        Kontakt: karen@hgi.dk.
-      traning: 'Træningtider: Onsdag, kl. 19.00 - 21.00.'
-    - image: /img/hold-4.jpg
-      heading: Fodbold - U15 piger
-      text: 'Spiller pt. 2. division! Kontakt: lars@hgi.dk.'
-      traning: 'Træningtider: Mandag, kl. 16.00 - 18.00.'
-    - image: /img/hold-3.jpg
-      heading: Fodbold - U15 drenge
-      text: 'Hyggehold med ambitioner. Kontakt: Aaliyah@hgi.dk.'
-      traning: 'Træningtider: Torsdag, kl. 17.30 - 19.00.'
-  heading: gr
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. 
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---
 
