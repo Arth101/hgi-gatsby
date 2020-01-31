@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
-title: Boldspil med plads til alle!
+title: 'Boldspil med plads til alle :)'
 image: /img/hgi-splash.jpg
 heading: Vores hold
-subheading: Remove
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
   description: En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
