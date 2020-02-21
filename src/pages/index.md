@@ -2,7 +2,9 @@
 templateKey: index-page
 title: 'Boldspil med plads til alle :)'
 image: /img/hgi-splash.jpg
-heading: Vores hold
+heading: >-
+  Vores hold. Fodbold 8mands Veteraner+50.8mands
+  Senior.U17pige.U11pige.U9pige.U8pige.Håndbold Old girls.Herre Veteraner.
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
   description: En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
