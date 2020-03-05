@@ -96,7 +96,6 @@ export const productPageQuery = graphql`
         }
         heading
         description
-        }
       }
     }
   }
