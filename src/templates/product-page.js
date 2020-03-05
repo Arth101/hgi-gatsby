@@ -9,7 +9,6 @@ export const ProductPageTemplate = ({
   title,
   heading,
   description,
-  intro,
   main,
   testimonials,
   fullImage,
@@ -60,9 +59,6 @@ ProductPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
@@ -89,7 +85,6 @@ const ProductPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
-        intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
@@ -123,21 +118,6 @@ export const productPageQuery = graphql`
         }
         heading
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            heading
-            text
-          }
-          heading
-          description
-        }
         main {
           heading
           description
