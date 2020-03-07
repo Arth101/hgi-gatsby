@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: 'Hvem er vi? '
-image: /img/fodbold.png
+image: /img/splash-1.jpg
 heading: 'Klubbens Hold '
 description: 'Vi favner bredt, både med fodbold og håndbold. '
 ---
