@@ -8,6 +8,4 @@ featuredimage: /img/57971de9-98b8-495a-a13c-f9ded25b741b.jpeg
 tags:
   - nyheder
 ---
-![flavor wheel](/img/hgi.jpg)
-
 Vi har fået en fin ny hjemmeside så vi kan få promoveret vores lille idrætsforening. Her på siden kan du blandt andet finde vores forskellige hold, træningstider og kontaktinformation.
