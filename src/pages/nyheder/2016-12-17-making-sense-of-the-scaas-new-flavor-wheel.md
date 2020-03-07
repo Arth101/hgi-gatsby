@@ -4,7 +4,7 @@ title: Høje Gladsaxe IF er online!
 date: 2016-12-17T15:04:10.000Z
 description: Vi har fået ny hjemmeside
 featuredpost: false
-featuredimage: /img/hgi.jpg
+featuredimage: /img/57971de9-98b8-495a-a13c-f9ded25b741b.jpeg
 tags:
   - nyheder
 ---
