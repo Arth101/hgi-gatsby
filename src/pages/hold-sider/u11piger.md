@@ -1,9 +1,9 @@
 ---
 templateKey: team-post
-title: Fodbold U11 Piger
-traning: Træning Torsdag Kl 17.30 - 18.30
+title: Fodbold U12 piger
+traning: 'Træning Tirsdag kl 16:15. Torsdag kl 16:15'
 description: 'Fodbold '
-contact: 'Træner: Steen Mail: Steen1998@live.dk Mobil: 27167372'
+contact: 'Træner: Rene mail ri-hansen@oncable.dk  40563173'
 featuredimage: /img/apple-touch-icon.png
 ---
 
