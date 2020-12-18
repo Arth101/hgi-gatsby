@@ -22,10 +22,10 @@ Mobil: 23309982
 
 Mail: carsten.email@gmail.com
 
-### Kasser
+### Kassereren
 
-Michael Juel Petersen
+Michael Juel Pedersen
 
 Mobil: 20757834
 
-Mail: hgi.sport@gmail.com
+Mail: hgi.sport.1966@gmail.com
