@@ -2,9 +2,9 @@
 templateKey: index-page
 title: 'Boldspil med plads til alle :)'
 image: /img/hgi-splash.jpg
-heading: 'HGI´s hold i fodbold & håndbold afdelingerne.  '
+heading: Høje Gladsaxe Idrætsforening (HGI)
 mainpitch:
-  title: Høje Gladsaxe Idrætsforening
+  title: 'HGI´s hold i fodbold & håndbold afdelingerne.  '
   description: |-
     Fodbold 8 m/k.
     U8pige.
