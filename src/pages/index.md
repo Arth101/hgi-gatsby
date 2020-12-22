@@ -7,7 +7,19 @@ heading: >-
   Senior.U17pige.U11pige.U9pige.U8pige.Håndbold Old girls.Herre Veteraner.
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
-  description: En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
+  description: |-
+    Fodbold 8 m/k.
+    U8pige.
+    U9pige.
+    U11pige.
+    U17pige.
+    Veteraner+50.
+
+    Håndbold
+    Oldgirls.
+    Super Veteraner.
+
+    En breddeklub i Høje Gladsaxe - lige ned bag højhusene.
 description: >-
   HGI er for alle der har lyst til at spille fodbold eller håndbold, og kan du
   ikke finde en hold i din aldersgruppe eller sportsgren er du velkommen til at
