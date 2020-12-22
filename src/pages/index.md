@@ -2,9 +2,7 @@
 templateKey: index-page
 title: 'Boldspil med plads til alle :)'
 image: /img/hgi-splash.jpg
-heading: >-
-  Vores hold. Fodbold 8mands Veteraner+50.8mands
-  Senior.U17pige.U11pige.U9pige.U8pige.Håndbold Old girls.Herre Veteraner.
+heading: 'HGI´s hold i fodbold & håndbold afdelingerne.  '
 mainpitch:
   title: Høje Gladsaxe Idrætsforening
   description: |-
