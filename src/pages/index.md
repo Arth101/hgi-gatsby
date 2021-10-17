@@ -5,13 +5,21 @@ image: /img/hgi-splash.jpg
 heading: Høje Gladsaxe Idrætsforening (HGI)
 mainpitch:
   title: 'HGI´s hold i fodbold & håndbold afdelingerne.  '
-  description: |-
-    Fodbold 8 m/k.
-    U8pige.
-    U9pige.
-    U11pige.
-    U17pige.
-    Veteraner+50.
+  description: |2-
+          Fodbold
+
+    Herre Senior 11mands
+
+    U10 Piger 8mands
+
+    U13 Piger 8mands
+
+    Veteraner + 50 8mands
+
+
+
+
+    .
 
     Håndbold
     Oldgirls.
