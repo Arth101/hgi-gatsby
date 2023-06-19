@@ -1,6 +1,6 @@
 ---
 templateKey: team-post
-title: Fodbold U17 Piger
+title: Fodbold U13 Piger
 traning: 'Træning: Tirsdag kl. 18.00 '
 description: Fodbold
 contact: 'Træner: Hamid Boussif 22170185 '
