@@ -1,9 +1,9 @@
 ---
 templateKey: team-post
 title: Fodbold U13 Piger
-traning: 'Træning: Tirsdag kl. 18.00 '
-description: Fodbold
-contact: 'Træner: Hamid Boussif 22170185 '
-featuredimage: /img/d6520559-c8de-48e6-8d4d-952bfc2321cb.jpeg
+traning: 'Træning: Tirsdag og Torsdag KL. 17:00 til 18:30'
+description: Fodbold 8mands
+contact: 'Træner: Rashan 26366955 og Jasmin 40518048'
+featuredimage: /img/65a69b77-bcfb-4684-8e5c-dce21b671862.jpeg
 ---
 .
