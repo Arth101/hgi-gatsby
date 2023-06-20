@@ -6,4 +6,4 @@ description: Fodbold
 contact: 'Træner: Carsten Nielsen 23309982. Holdleder: Michael Juul Petersen 20757834'
 featuredimage: /img/fodbold.png
 ---
-..
+Veteranerne kunne  godt bruge nogle der ville spille med dem
