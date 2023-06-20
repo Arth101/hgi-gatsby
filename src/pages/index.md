@@ -10,7 +10,7 @@ mainpitch:
 
     Herre Senior 11mands
 
-    U10 Piger 8mands
+    U11 Piger 5mands
 
     U13 Piger 8mands
 
